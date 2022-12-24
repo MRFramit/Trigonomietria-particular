@@ -1,0 +1,18 @@
+PRIMER SUBIDA
+----------------------------------------------
+echo "# Trigonomietria-particular" >> README.md
+git init
+git add .	// o nombre del fichero
+git commit -m "commit inicial"
+git branch -M main
+git remote add origin https://github.com/MRFramit/Trigonomietria-particular.git
+git push -u origin main
+
+MODIFICACION
+----------------------------------------------
+git add index.html
+[git add style.css
+git add <otro-fichero>
+git add ...]
+git commit -m "modifiqué fondo pagina"  <--- culaquier explicacion
+git push -u origin main
