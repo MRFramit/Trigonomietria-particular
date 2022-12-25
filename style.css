@@ -43,16 +43,17 @@ body {
   
   .presenta {
     font-family: Calibri, Serif;
-    padding: 0.5em 0 0 0;
-    margin-left: 2em;
+    padding: 1.5em 0 1em 0;
+     margin-left: 3%;
+    margin-right: 3%;
     text-align: justify;
     color: #206799;
     font-size: calc(0.7em + 0.7vw);
   }
   
   .parrafo-1 {
-    margin-left: 7em;
-    margin-right: 7em;
+    margin-left:  7%;
+    margin-right: 7%;
     font-family: calibri, Serif;
     font-size: calc(0.6em + 0.6vw);
   }
@@ -67,7 +68,7 @@ body {
   
   h2 {
     font-size: calc(0.6em + 0.4vw);
-    margin-left: 1.5em;
+    margin-left: 5%;
     margin-bottom: 2.5em;
   }
   
