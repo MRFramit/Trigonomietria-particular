@@ -52,15 +52,15 @@ body {
   }
   
   .parrafo-1 {
-    margin-left:  6%;
-    margin-right: 6%;
+    margin-left:  7%;
+    margin-right: 7%;
     font-family: calibri, Serif;
     font-size: calc(0.6em + 0.6vw);
   }
   
   h1 {
     font-family: "Roboto Slab", serif;
-    font-size: calc(0.75em + 1.9vw);
+    font-size: calc(0.8em + 1.9vw);
     color: #ffffff;
     text-shadow: 0 2px 5px rgb(0 0 0 / 50%);
     margin-bottom: 0.3vw !important;
