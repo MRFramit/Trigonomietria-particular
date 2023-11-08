@@ -29,7 +29,7 @@ body {
     border:1px solid #00008080;
     border-radius:0.5em;
     font-size: calc(0.5em + 0.5vw);
-    color: rgb(255,217,0);
+    color: rgb(255 217 0);
     background-color: #00008080;
     height: 4.25em;
     padding-left: 0.7em;
